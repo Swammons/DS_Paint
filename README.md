@@ -1,5 +1,5 @@
-Drew's DS Paint Version 1.1.0 -  09/08/2022
-New features:
+# Drew's DS Paint Version 1.1.0 -  09/15/2022
+## New features:
   * Clear
   * Draw
   * Draw color picker
@@ -9,9 +9,9 @@ New features:
   * Toolbar
   * Scroll Bars
   *	Help menu and about popup window
-Known issues:
+## Known issues:
   * Using Save befor Save As will overwrite the original file Opened
-Expected next sprint:
+## Expected next sprint:
   * Undo and Redo
-Links:
+## Links:
   https://github.com/Swammons/DS_Paint
